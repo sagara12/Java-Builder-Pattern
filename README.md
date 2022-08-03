@@ -196,3 +196,6 @@ Person person = Person.builder() // 빌더어노테이션으로 생성된 빌더
     .phone(1234)
     .build();
 ```
+
+## 참조
+https://esoongan.tistory.com/82
